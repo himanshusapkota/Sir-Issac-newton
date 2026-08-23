@@ -1,0 +1,179 @@
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  background: #100c14;
+  color: #d8cde0;
+  font-family: "Segoe Print", "Comic Sans MS", cursive;
+  line-height: 1.7;
+}
+
+header {
+  text-align: center;
+  padding: 70px 20px;
+  background: #18121f;
+  border-bottom: 1px solid #3d294c;
+}
+
+header h1 {
+  margin: 0;
+  color: #eee3f7;
+  font-size: 3em;
+  font-weight: bold;
+}
+
+header p {
+  margin-top: 10px;
+  color: #a98bbd;
+  font-style: italic;
+}
+
+nav {
+  padding: 14px;
+  text-align: center;
+  background: #0d0911;
+  border-bottom: 1px solid #2d2035;
+}
+
+nav a {
+  color: #bba5c9;
+  text-decoration: none;
+  margin: 0 10px;
+  transition: 0.2s;
+}
+
+nav a:hover {
+  color: #c58cff;
+}
+
+main {
+  width: 90%;
+  max-width: 800px;
+  margin: auto;
+  padding: 45px 0;
+}
+
+section {
+  margin-bottom: 55px;
+}
+
+h2 {
+  color: #e6d5f2;
+  font-size: 1.8em;
+  font-weight: bold;
+  border-bottom: 1px solid #493452;
+  padding-bottom: 8px;
+}
+
+h3 {
+  color: #c99de6;
+}
+
+p {
+  color: #c8bacf;
+  font-size: 1.02em;
+}
+
+ul {
+  padding-left: 25px;
+}
+
+li {
+  margin-bottom: 9px;
+}
+
+blockquote {
+  margin: 25px 0;
+  padding: 15px 20px;
+  background: #1b1422;
+  border-left: 3px solid #9b5fc7;
+  color: #ad96ba;
+  font-style: italic;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+th,
+td {
+  padding: 12px;
+  border: 1px solid #38273f;
+  text-align: left;
+}
+
+th {
+  background: #21152b;
+  color: #e6d5f2;
+}
+
+td {
+  color: #c5b6cc;
+}
+
+tr:nth-child(even) {
+  background: #171019;
+}
+
+tr:hover {
+  background: #201629;
+}
+
+footer {
+  padding: 30px;
+  text-align: center;
+  background: #0d0911;
+  border-top: 1px solid #2d2035;
+}
+
+footer p {
+  color: #806d8c;
+  font-size: 0.9em;
+}
+
+::selection {
+  background: #74439a;
+  color: white;
+}
+
+@media (max-width: 600px) {
+  header {
+    padding: 55px 15px;
+  }
+
+  header h1 {
+    font-size: 2.3em;
+  }
+
+  nav a {
+    display: inline-block;
+    margin: 4px 6px;
+  }
+
+  main {
+    width: 92%;
+    padding: 35px 0;
+  }
+
+  h2 {
+    font-size: 1.6em;
+  }
+
+  table {
+    font-size: 0.9em;
+  }
+
+  th,
+  td {
+    padding: 9px;
+  }
+}
