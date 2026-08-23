@@ -1,4 +1,4 @@
-README = """# Sir Isaac Newton — A Life in Science
+# Sir Isaac Newton — A Life in Science
 
 This is a simple website about Sir Isaac Newton and his contribution to science.
 
