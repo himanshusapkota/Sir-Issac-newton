@@ -83,7 +83,6 @@ Sir-Issac-newton/
 
 **Himanshu Sapkota**
 
-[GitHub](https://github.com/himanshusapkota)
 
 ##  Final Note
 
