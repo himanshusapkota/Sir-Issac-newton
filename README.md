@@ -1,57 +1,89 @@
+README = """# Sir Isaac Newton â€” A Life in Science
 
-i#c  ğŸ”­d iSsicro vIesraiaecs ,N emwattohne mâ€”a tAi cLailf ew oirnk ,S cainedn clea
-s
-tAi nsgi mipmlpea cetd uocna tmionelr websinc d tdroaghd a co *aS rnId aacspNnwitoe w*,e bponaee.
+This is a simple website about Sir Isaac Newton and his contribution to science.
 
- t-e-
+## About the Project
 
-mos  Ÿ“– Aboluut ntihae  roiject
+I created this project to learn more about Newton while also practicing basic web development.
 
-s**Sar  maatahc eNatton â€”nsA ini hisin ry.ci
+The website talks about some of his most important work, including:
 
-The* prioja s elllorusc ateotoln websiee  cciatti ficsi ngs**ovHTerLie5 anm ChSm*ti
-a
-lhe ork,rpaone  loaf tihnigs pimrojet  n s tdoerin scieucce evthrourh a  leeat nnd mespor sivne wbebpigones.
-i
-n a
-s
-#i#mpğŸ“–eA bondu  tseu allroyjencta
-g
-i*g rwa I.s
-a
-ThNewebn t€”   Lviefrs n omeiofc ehe  imo t  smmall adnu arieaons lof eestton' sc weoartk,d  uisinugd i*gT:
-M
-*5 aš™n¸  CSS3h*r.ee
- 
-Lhew s of Moet iof
- *hiğŸŒ  projerst  s ravo tnttrondu
-ce ğŸ”­ Opsitcrs sand NLiwgtton
-' sğŸ“  Matremattrsb andoCnasl iun ua ss
-imğŸ“šlNe eanto v'si scalley eingc ilngga wy
+- Three Laws of Motion
+- Universal Gravitation
+- Optics and Light
+- Mathematics and Calculus
+- His impact on science
 
-T
-h
-eT e woejbci f ccuover  ns keee pofntg t mosdt imposiapl  wheiase f reesewnoinsg woie,ntificcl udnnfor
-ma
-*t âš™nï¸  Tn aTn resy L-atow- nf ersttaonn 
-f rŸŒ mat.
-e
----al
+## Who Was Sir Isaac Newton?
 
- G# avŸ‘¨â€ğŸ”¬ Wihoo nW
-a ğŸ”­ SOirticsa c NeLtont
+Sir Isaac Newton (1643â€“1727) was an English mathematician, physicist, astronomer, and author.
 
-**Ÿ“ iat hsmaatcicNsewandn (C16c3â€“u72
-7*)ğŸ“š** N eatoan'  nclesht fat heegacci
+He is best known for his work on motion and gravity. His ideas became an important part of classical physics and changed the way people understood how objects move and interact.
 
-n, p proiccits ,o acsteronoom ek,eepind g theh ord.es
+His famous book, *Principia Mathematica*, was published in 1687.
 
-ige  ss plde wly icensrdsrnedinn  soi nthifmos i ninfmlauenoni ins acin eneatisys-tso-un dhirsstoand foirmaot.rk
+## Newton's Three Laws
 
-p-l-
-e
-# ağŸ‘¨ mâ€ğŸ”¬a ohr roae  Snir staaciNeitg t?h
-e
- fSird Isiaac sNofw ** cla164i3c€“172 m)ch wnic s*an.
+### First Law
 
-Neithn mstudemieti cheanb ehaysiici osf  abjsetcrot
+An object will remain at rest or keep moving unless an external force acts on it.
+
+### Second Law
+
+The acceleration of an object depends on the force applied to it and its mass.
+
+**F = ma**
+
+### Third Law
+
+For every action, there is an equal and opposite reaction.
+
+## Gravity
+
+Newton's law of universal gravitation explains that objects with mass attract each other.
+
+The formula is:
+
+**F = G(mâ‚mâ‚‚ / rÂ²)**
+
+This helped explain things like falling objects and the movement of planets.
+
+## Optics
+
+Newton also studied light. Using prisms, he showed that white light can be separated into different colors.
+
+**Red â†’ Orange â†’ Yellow â†’ Green â†’ Blue â†’ Indigo â†’ Violet**
+
+## Mathematics
+
+Newton made important contributions to mathematics and the development of calculus.
+
+His mathematical work was closely connected to his studies of motion and physics.
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- Markdown
+
+The project does not require any external frameworks.
+
+## Project Structure
+
+```text
+Sir-Issac-newton/
+â”œâ”€â”€ index.html
+â”œâ”€â”€ style.css
+â””â”€â”€ README.md
+
+##  Author
+
+**Himanshu Sapkota**
+
+[GitHub](https://github.com/himanshusapkota)
+
+##  Final Note
+
+A small tribute to **Sir Isaac Newton** and his lasting contribution to science.
+
+**Made with HTML & CSS.**
